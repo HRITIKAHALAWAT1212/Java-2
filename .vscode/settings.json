@@ -1,0 +1,16 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "A-practice",
+        "8. Exercise 1",
+        "7. Functions",
+        "5. Pattern",
+        "4. Loops",
+        "3. Conditional statements",
+        "12. Strings",
+        "11. Arrays 2d",
+        "10. Arrays",
+        "1-2. Intro - Basics, Variables, Input, Output",
+        "Games & Projects/CodSoft Projects"
+    ]
+}
